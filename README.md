@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
   <div id="badges">
     <a href="https://www.facebook.com/nyashachiks/">
       <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
@@ -18,12 +18,12 @@
 
 ### 👨‍💻 About Me
 
-I am a Full Stack Developer based in Harare, Zimbabwe. 🇿🇼
+I am a Full Stack Developer based in Harare, Zimbabwe.
 - 📖 I love to know how things work and tinker around
 - 🔬 I'm continuous researching and keeping myself abreast with new technologies and discoveries
 - 🦅 free spirit, deep thinker, fun loving and excellent communicator 🔈
 
-I am curious by nature and hence I love a challenge regularly to keep me on my toes.
+I am curious and creative by nature and hence I love a challenge regularly to keep me on my toes.
 
 📫 You can reach me on <a href="#">
       <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
