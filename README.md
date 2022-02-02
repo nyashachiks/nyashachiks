@@ -1,5 +1,9 @@
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyashachiks)](https://github.com/nyashachiks/github-readme-stats)
+  
   <div id="badges">
     <a href="https://www.facebook.com/nyashachiks/">
       <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
@@ -13,21 +17,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
-
-### 👨‍💻 About Me
-
-I am a Full Stack Developer based in Harare, Zimbabwe.
-- 📖 I love to know how things work and tinker around
-- 🔬 I'm continuous researching and keeping myself abreast with new technologies and discoveries
-- 🦅 free spirit, deep thinker, fun loving and excellent communicator 🔈
-
-I am curious and creative by nature and hence I love a challenge regularly to keep me on my toes.
-
-📫 You can reach me on <a href="#">
-      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-    </a> nyashachiks@gmail.com
 
 ---
 
@@ -54,9 +43,18 @@ I am curious and creative by nature and hence I love a challenge regularly to ke
 
 ---
 
-### 🔥 My Stats
+### 👨‍💻 About Me
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyashachiks&theme=dark&background=000000)](https://git.io/streak-stats)
+I am a Full Stack Developer based in Harare, Zimbabwe.
+- 📖 I love to know how things work and tinker around
+- 🔬 I'm continuous researching and keeping myself abreast with new technologies and discoveries
+- 🦅 free spirit, deep thinker, fun loving and excellent communicator 🔈
+
+I am curious and creative by nature and hence I love a challenge regularly to keep me on my toes.
+
+📫 You can reach me on <a href="#">
+      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    </a> nyashachiks@gmail.com
 
 
 
